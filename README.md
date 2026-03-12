@@ -12,6 +12,7 @@ The program represents characters from The Lord of the Rings using 5 different r
 
 ## Project Structure
 
+```text
 src/main/java
 └── lotr
     ├── Main.java
